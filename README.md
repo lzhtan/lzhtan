@@ -24,7 +24,6 @@
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://lzhtan.github.io/lzhtanBlog/)
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://lzhtan.github.io/lzhtanBlog/) visitor, Thank You!🎉🎉
 <!--
 <div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lzhtan&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->
