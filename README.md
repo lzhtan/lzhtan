@@ -40,13 +40,3 @@ Homepage: https://tanlizhuang.cn/
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lzhtan" /> </div>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=lzhtan" /> </div>
-<!--
-<div align="center">
-  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
-</div>
--->
