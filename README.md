@@ -4,7 +4,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzhtan&show_icons=true&theme=radical) -->
 
-- 🔭 I’m currently working on Shandong Computer Science Center (National Supercomputer Center in Ji'nan).
+- 🔭 I’m currently working in Shandong Computer Science Center (National Supercomputer Center in Ji'nan).
 
 - 🚀 I use daily:
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://lzhtan.github.io/lzhtanBlog/)
